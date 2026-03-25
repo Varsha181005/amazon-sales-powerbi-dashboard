@@ -174,7 +174,8 @@ This dashboard provides a comprehensive view of Amazon sales performance, enabli
 ## 📸 Dashboard Preview
 
 **##Page 1:**
-<img width="800" height="744" alt="dashboard-preview 1" src="https://github.com/user-attachments/assets/11b70f8f-aec8-4729-9065-6793a5096485" />
+
+<img width="800" height="661" alt="dashboard-preview 1" src="https://github.com/user-attachments/assets/11b70f8f-aec8-4729-9065-6793a5096485" />
 
 **##Page 2:**
 
